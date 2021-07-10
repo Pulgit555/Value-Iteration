@@ -4,7 +4,7 @@
 > + Archit Jain (2019101053)
 > + Pulkit Gupta (2019101078)
 
-This part of assignment covers the concept of the Bellman equation in the basis of the value iteration algorithm for solving MDPs.
+It covers the concept of the Bellman equation in the basis of the value iteration algorithm for solving MDPs.
 
 ## Task 1
 
